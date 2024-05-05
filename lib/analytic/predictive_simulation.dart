@@ -172,7 +172,7 @@ class _PredictiveSimulationState extends State<PredictiveSimulation> {
                                     border: Border.all(color: Colors.white, width: 2), // Border
                                     color: Colors.black,
                                   ),
-                                  child: Image.asset('assets/image/chart2.png',fit: BoxFit.fill,), // Add your image asset
+                                  child: Image.asset('assets/image/chart5.png',fit: BoxFit.fill,), // Add your image asset
                                   ),
                                 ),
                             ],
